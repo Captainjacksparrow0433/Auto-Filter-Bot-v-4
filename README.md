@@ -139,7 +139,7 @@ This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](h
 
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Captainjacksparrow0433/Auto-Filter-Bot-v-4/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Captainjacksparrow0433/Auto-Filter-Bot-v-4/tree/mastern">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
