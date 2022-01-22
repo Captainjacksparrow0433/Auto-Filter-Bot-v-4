@@ -37,7 +37,7 @@ class temp(object):
     CANCEL = False
     MELCOW = {}
     U_NAME = None
-    B_NAME = Lucifer
+    B_NAME = None
 
 async def is_subscribed(bot, query):
     try:
