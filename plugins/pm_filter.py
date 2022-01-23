@@ -612,8 +612,6 @@ async def auto_filter(client, msg, spoll=False):
     if imdb:
         cap = IMDB_TEMPLATE.format(
             query = search,
-            temp.U_MAN = user_id,
-            temp.UF_MAN = user_first_name,
             title = imdb['title'],
             votes = imdb['votes'],
             aka = imdb["aka"],
